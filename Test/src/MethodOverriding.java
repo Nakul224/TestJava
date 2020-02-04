@@ -12,7 +12,7 @@ class child extends parent
 	void m3()
 	{ System.out.println("child222222222222"); }
 }
-class Best
+class MethodOverriding
 { public static void main(String[]dsdsd){
 child c=new child();
 parent p=new parent();

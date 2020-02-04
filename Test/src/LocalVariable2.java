@@ -1,4 +1,4 @@
- class B {
+ class Localvariables2 {
 	 int z;
 	 public static void main(String[] args) 
 	{

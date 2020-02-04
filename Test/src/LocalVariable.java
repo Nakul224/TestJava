@@ -1,5 +1,5 @@
 
-public class A {
+public class LocalVariable {
 	
 	static int x;
 	public static void main(String[] args) 

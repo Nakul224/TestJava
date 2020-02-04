@@ -16,7 +16,7 @@ class C implements A
 		System.out.println("CCC class implementation");
 	}
 }
-class D
+class InterfaceAsReturntype
 {
 	public static A m2()
 	{
